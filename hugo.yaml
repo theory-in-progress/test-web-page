@@ -44,7 +44,7 @@ params:
     enabled: true
     title: "Jyotirmay Khavasi" # optional default will be site title
     subtitle: "Welcome to my profile!"
-    imageUrl: "/images/IMG_1335.png" # optional
+    imageUrl: "./images/IMG_1335.png" # optional
     # image: "./static/20231103_223927.jpg" # optional
     
     # image: 
